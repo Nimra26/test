@@ -1,5 +1,9 @@
-A = int(input("Enter the 1st number to swap: "))
-B = int(input("Enter the 2nd number to swap: "))
+
+# This is for testing
+# git.
+
+A = int(input("Enter the 1st number  : "))
+B = int(input("Enter the 2nd number : "))
 
 A=A+B
 B=A-B
